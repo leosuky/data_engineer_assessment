@@ -1,0 +1,20 @@
+{
+    "name": {
+        "firstName": "John",
+        "lastName": "Cena"
+    },
+    "age": 45,
+    "nationality": "American",
+    "favouriteFood": [
+        "Cheese",
+        "Banana",
+        "Carrot"
+    ],
+    "status": [
+        {
+            "married": "yes",
+            "actor": "yes",
+            "wrestler": "no"
+        }
+    ]
+}
